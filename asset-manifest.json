@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Edcreation/myportfolio/static/css/main.15eb9eaa.css",
+    "main.js": "/Edcreation/myportfolio/static/js/main.8a61c70d.js",
+    "static/media/bg-intro.jpg": "/Edcreation/myportfolio/static/media/bg-intro.8d20c6f0d6756da98297.jpg",
+    "static/media/m2.png": "/Edcreation/myportfolio/static/media/m2.033b2b476781692500b1.png",
+    "static/media/m1.png": "/Edcreation/myportfolio/static/media/m1.1d5e3fbbe3df78f7de69.png",
+    "static/media/i1.png": "/Edcreation/myportfolio/static/media/i1.7df9761c684ab8d6b53c.png",
+    "static/media/instagram.png": "/Edcreation/myportfolio/static/media/instagram.8e408da00539cdef4629.png",
+    "static/media/me.jpg": "/Edcreation/myportfolio/static/media/me.06aa5b14a3266c480ac3.jpg",
+    "static/media/dj.png": "/Edcreation/myportfolio/static/media/dj.c1586b652e83c39cfdcc.png",
+    "static/media/java.png": "/Edcreation/myportfolio/static/media/java.39770df150b98ed9e2ed.png",
+    "static/media/nodejs.jpg": "/Edcreation/myportfolio/static/media/nodejs.413f6107011d5a98f1e9.jpg",
+    "static/media/linkedin.png": "/Edcreation/myportfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/gmail.png": "/Edcreation/myportfolio/static/media/gmail.23d2a9b0f4cc2cae2ed1.png",
+    "index.html": "/Edcreation/myportfolio/index.html",
+    "main.15eb9eaa.css.map": "/Edcreation/myportfolio/static/css/main.15eb9eaa.css.map",
+    "main.8a61c70d.js.map": "/Edcreation/myportfolio/static/js/main.8a61c70d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15eb9eaa.css",
+    "static/js/main.8a61c70d.js"
+  ]
+}
